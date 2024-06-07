@@ -15,7 +15,7 @@ Follow these steps to compile and run a WordCount Java program from the command 
 - **macOS/Linux:** Open Terminal.
 
 ### 2. Navigate to the Directory
-cd path/to/your/java/files
+cd path/to/your/java-programs
 
 ### 3. Compile the Java Program
 
