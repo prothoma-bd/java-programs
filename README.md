@@ -15,9 +15,9 @@ Follow these steps to compile and run a WordCount Java program from the command 
 - **macOS/Linux:** Open Terminal.
 
 ### 2. Git Clone & Navigate to the Directory
-git clone https://github.com/prothoma-bd/java-programs
-cd path/to/your/java-programs
-
+- git clone https://github.com/prothoma-bd/java-programs
+- cd path/to/your/java-programs
+  
 ### 3. Compile the Java Program
 
 javac WordCount.java
